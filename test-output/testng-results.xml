@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2938" started-at="2020-02-29T09:23:51Z" finished-at="2020-02-29T09:23:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2938" started-at="2020-02-29T09:23:51Z" finished-at="2020-02-29T09:23:54Z">
+      <class name="com.qa.test.tests.GetCallBDD">
+        <test-method status="PASS" signature="test_circuits2017()[pri:0, instance:com.qa.test.tests.GetCallBDD@366e2eef]" name="test_circuits2017" duration-ms="2928" started-at="2020-02-29T09:23:51Z" finished-at="2020-02-29T09:23:54Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
