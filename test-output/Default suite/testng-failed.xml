@@ -3,9 +3,9 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)" preserve-order="true">
     <classes>
-      <class name="com.qa.test.tests.GetCallBDD">
+      <class name="com.qa.test.tests.JsonCityResponse">
         <methods>
-          <include name="test_circuits2017"/>
+          <include name="getCityResponse"/>
         </methods>
       </class>
     </classes>
